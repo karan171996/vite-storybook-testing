@@ -1,0 +1,11 @@
+.storybook-cotainer--primary {
+    display: block;
+    width:100px;
+    height: 20px;
+}
+
+.storybook-cotainer--secondary {
+    display: block;
+    width:500px;
+    height: 40px;
+}
